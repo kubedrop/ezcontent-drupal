@@ -1,1 +1,1 @@
-FROM srijanlabs/ezcontent:8.x-dev
+FROM leeotzu/ezcontent:8.x-dev
