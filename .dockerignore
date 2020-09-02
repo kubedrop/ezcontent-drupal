@@ -1,0 +1,5 @@
+.git
+.github
+docker-compose.yml
+vendor
+docroot/sites/default/files
